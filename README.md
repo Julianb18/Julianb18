@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,5 +15,5 @@
 ## My GitHub Stats
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Julianb18&show_icons=true&count_private=true&line_height=27&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&title_color=FFFFFF" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Julianb18&show_icons=true&count_private=true&line_height=27&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&title_color=4494BB" />
 </p>
