@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Julianb18/Julianb18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <br/>
-[![Julian's Github Stats](https://github-readme-stats.vercel.app/api?username=Julianb18&hide=stars&show_icons=true&theme=tokyonight)](https://github-readme-stats.julianb18.vercel.app/)
+[![Julian's Github Stats](https://github-readme-stats.vercel.app/api?username=Julianb18&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/Julianb18/github-readme-stats)
