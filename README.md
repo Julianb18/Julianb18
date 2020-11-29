@@ -16,5 +16,4 @@
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=Julianb18&show_icons=true&count_private=true&line_height=27&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&title_color=FFFFFF" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianb18&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1d1f21&title_color=FFFFFF" />
 </p>
