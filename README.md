@@ -1,4 +1,9 @@
-### Junior Frontend Developer
+### Hey there, I'm Julian :wave:
+
+
+<br/>
+
+## I am a Junior Frontend Developer
 
 - :muscle: I’m currently mastering React
 - :medal_sports: 2021 Goals: Master 2 new programming languages and 2 new Frameworks
