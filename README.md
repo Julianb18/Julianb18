@@ -1,13 +1,3 @@
-## I am a Frontend Developer
-
-- :mortar_board: 1 year Web Development bootcamp at [Digital Career Institute](https://digitalcareerinstitute.org/)
-- :fire: Bootcamp final project: [ Pflanzy <img  alt="Pflanzy" width="15px" src="https://raw.githubusercontent.com/Pflanzy/Pflanzy-mobile-app/master/assets/images/pflanzy-logo.svg" />](https://github.com/Pflanzy/Pflanzy-mobile-app)
-- :muscle: I’m currently mastering React
-- :medal_sports: 2021 Goals: Master 2 new programming languages and 2 new Frameworks
-
-
-<br/>
-
 ## My GitHub Stats
 
 <p align="center">
